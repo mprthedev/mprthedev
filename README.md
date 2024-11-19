@@ -14,7 +14,8 @@
     - To  build soft skills
     - To work on projects
 - 📫 How to reach me
-  - <a href="mailto:\@mprthedev@gmail.com">@mprthedev@gmail.com</a>
+  - Please only email me to discuss Web Development or Hire me  
+    - <a href="mailto:\@mprthedev@gmail.com">@mprthedev@gmail.com</a>
 - ⚡ Fun fact: I like snow leopards alot
 
 <!---
