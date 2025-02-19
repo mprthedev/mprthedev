@@ -1,4 +1,4 @@
-#👋 Hi, I’m @mprthedev. I'm a (Neurodoverse) Web Developer who is passionate about User Experience and Accessibility
+#👋 Hi, I’m @mprthedev. I'm a Neurodoverse Web Developer who is passionate about User Experience and Accessibility
 - interested in ...
   - PHP
   - HTML
@@ -9,9 +9,9 @@
       - Vue
 - 🌱 I’m currently learning
   - Wordpress   
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate
   - With other Neurodiverse (or Neurotypicals)
-    - To  build soft skills
+    - To build soft skills
     - To work on projects
 - 📫 How to reach me
   - Please only email me to discuss Web Development or Hire me  
